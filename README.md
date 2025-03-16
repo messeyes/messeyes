@@ -1,21 +1,48 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+web&pause=1000&color=FF089D&width=435&lines=Hello+World%2C+I'm+Mess%2C+be+very+welcome!)](https://git.io/typing-svg)
+<h1 align="center"><b>Hi , I'm Mess </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+I am a student of software engineering and ads, still at the beginning of my career. I'm expanding my knowledge in front-end and back-end development! I love to learn and build something new, productive, innovative and creative.
+
+- 👽 I’m currently learning ...
+  - JavaScript
+  - C++
+- 👩‍💻 I’m looking forward to collaborate on open source projects.
+- 💞 Ask me about anything, I am happy to help<br>
+- Outside tech, 💜I love playing videogames and 🎵 listening to music.
+- 📫 Reach out to me at: <a href="2006mesousasilva@gmail.com">2006mesousasilva@gmail.com</a>
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+ 
 
 
-###
+</span>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
 
-###
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+
+
+
+</span>
+
+## Check out my Social Media
+
+ 
 
 <div align="left">
   <a href="https://www.instagram.com/m3sey?igsh=b2RrZXA2Y2EybHh2" target="_blank">
