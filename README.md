@@ -2,9 +2,9 @@
 <hr>
 
 <p>Software Engineering student<p>
-<p>Passionate about Backend Development, Database & AI</p>
+<p>Passionate about Full Stack Development, Database & AI</p>
 <p>Outside of programming, I love cats, music, painting, and reading novels that don't end well.</p>
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,postgresql,spring,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,postgresql,neovim,arch)](https://skillicons.dev)
